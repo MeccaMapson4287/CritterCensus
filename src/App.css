@@ -1,0 +1,71 @@
+<!DOCTYPE html > <html > <head > <title > cell padding</title > <style > .gfg {
+  width: auto;
+  text-align: center;
+  padding: 20px;
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
+</style
+  > </head
+  > <!DOCTYPE
+  html
+  > <html
+  > <head
+  > <title
+  > CSS|Border
+  Images
+  </title
+  > <style
+  > body {
+  text-align: center;
+}
+h1 {
+  color: rgb(213, 216, 17);
+}
+.border1 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image-source: url(https://media.geeksforgeeks.org/wp-content/uploads/border1-2.png);
+  border-image-repeat: round;
+  border-image-slice: 30;
+  border-image-width: 20px;
+}
+
+.App {
+  display: auto;
+  text-align: center;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/377/728/922/beautiful-birds-wallpaper-preview.jpg);
+}
+
+		.cell {
+			text-align: center;
+			padding: 20px 0;
+      font-size: 30px;
+      background-color:rgb(255, 255, 15);
+    }
+
+    .card {
+      width: 33;
+      margin: 0 auto;
+      border: 1px solid rgb(22, 21, 21);
+
+    }
+	</style>
+</head>
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
